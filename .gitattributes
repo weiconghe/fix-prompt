@@ -1,0 +1,10 @@
+# 统一换行符，避免 Windows / macOS / Linux 之间互相产生无意义的 diff
+* text=auto eol=lf
+
+# 明确的二进制类型
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.xlsx binary
+*.zip binary
